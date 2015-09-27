@@ -14,7 +14,7 @@ public static class Program{
   private static int loguearse(string usuario, string contra){
   
     //Devuelve 1 si está logueado
-    retrun 1;
+    return 1;
   
   }
   
